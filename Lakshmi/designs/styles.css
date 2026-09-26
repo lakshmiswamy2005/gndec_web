@@ -1,0 +1,19 @@
+.P{
+    background-color: aqua;
+    color: blueviolet;
+}
+body{
+    background-color: grey;
+}
+table,th,tr,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    
+}
+h1{
+    text-decoration: center;
+}
+h2{
+    background-color: black;
+    color: cornsilk;
+}
